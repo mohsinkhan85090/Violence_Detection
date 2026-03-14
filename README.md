@@ -32,6 +32,7 @@ violence_detection/
 ## Installation
 1️⃣ Clone the Repository
 git clone https://github.com/mohsinkhan85090/violence_detection.git
+
 cd violence_detection
 
 2️⃣ Install Dependencies
